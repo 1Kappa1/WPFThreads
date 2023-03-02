@@ -21,4 +21,7 @@ La lamba expression è utilizzata per contenere delle parti di codice da inserir
 La Lambda viene scritta in qusto modo.
 
 ()
+
 =>
+
+{}
