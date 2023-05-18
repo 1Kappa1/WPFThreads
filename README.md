@@ -18,7 +18,7 @@ lock(obj)
 
 Quindi il lock blocca il pezzo di codice contenente al suo interno il primo thread che arriva, per poi quando finisce lasciarlo a quelli successivi
 
-## Lambda expression
+## Lambda espression
 La lamba expression è utilizzata per contenere delle parti di codice da inserire poi ad esempio in dei metodi di alcune classi
 
 La Lambda viene scritta in qusto modo.
